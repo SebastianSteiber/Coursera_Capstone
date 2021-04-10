@@ -1,5 +1,5 @@
 # Coursera_Capstone
-Coursera Data Science Capstone Project
+Coursera Data Science Capstone Project\
 *Sebastian Steiber*
 # Final Assignment of the Course "Applied Data Science Capstone
 ## 1) Description of the problem
